@@ -43,6 +43,7 @@ namespace CalculadorDeIMC
             }
 
             else if (imc > 35 && imc <= 40)
+       
             {
                 Console.WriteLine("Você está com obesidade grau 2");
             }
